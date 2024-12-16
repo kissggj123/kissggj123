@@ -1,5 +1,8 @@
 <h1 align="center">Hi 🐰, I'm CanguroMIO</h1>
-<h3 align="center">A British Angora rabbit breeder</h3>
+<h3 align="center">🐰2024.3.12
+有一只英系双血统安哥拉兔 | 英系の二重血統のアンゴラウサギ | A British-derived Angora rabbit with dual pedigree
+兔可可 | CoCo | ココ | 
+它的铲屎官 | Caretaker | お世話係です</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kissggj123&label=Profile%20views&color=0e75b6&style=flat" alt="kissggj123" /> </p>
 
